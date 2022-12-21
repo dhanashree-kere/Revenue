@@ -1,1 +1,1 @@
-console.log("Hey this is a test JS file");
+console.log("Hey this is a test JS file2");
